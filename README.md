@@ -101,7 +101,7 @@ Screennshots of the Project
 ![Login Screenshot](./screenshots/Login Page.png)
 
 * Main Interface
-* ![Converter Screenshot](./screenshots/MainPage.png)
+* ![Converter Screenshot](./screenshots/Main.png)
 ![Converter Screenshot](./screenshots/Conversion.png)
 ![Converter Screenshot](./screenshots/Currencies.png)
 
