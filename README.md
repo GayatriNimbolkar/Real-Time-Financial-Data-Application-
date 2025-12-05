@@ -95,6 +95,19 @@ Users can:
 * Convert any supported currency
 * View their entire conversion history
 
+Screennshots of the Project
+
+* Login Page
+![Login Screenshot](./screenshots/login.png)
+
+* Main Interface
+![Converter Screenshot](./screenshots/converter.png)
+
+* Conversion History Page
+![History Screenshot](./screenshots/history.png)
+
+
+
 ---
 
 ##  6. Future Enhancements
