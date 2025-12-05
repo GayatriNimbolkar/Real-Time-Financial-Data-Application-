@@ -98,10 +98,13 @@ Users can:
 Screennshots of the Project
 
 * Login Page
-![Login Screenshot](./screenshots/login.png)
+![Login Screenshot](./screenshots/LoginPage.png)
 
 * Main Interface
-![Converter Screenshot](./screenshots/converter.png)
+* ![Converter Screenshot](./screenshots/MainPage.png)
+![Converter Screenshot](./screenshots/Conversion.png)
+![Converter Screenshot](./screenshots/Currencies.png)
+
 
 * Conversion History Page
 ![History Screenshot](./screenshots/history.png)
