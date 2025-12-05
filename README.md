@@ -5,7 +5,7 @@ Real-Time Financial Data Application with Cloud Deployment on GCP(Currency Conve
 
 ##  1. Project Overview
 
-The ** Web Application** is a cloud-ready web application that enables users to convert currencies in real time and securely store their conversion history.
+The **Web Application** is a cloud-ready web application that enables users to convert currencies in real time and securely store their conversion history.
 The backend is **containerized using Docker** and deployed on **Google Cloud Run**, ensuring scalability, portability, and zero server management.
 
 User authentication is handled via **Firebase Authentication**, while conversion history is stored in **Firestore**, a NoSQL database.
@@ -205,8 +205,8 @@ docker run -p 8080:8080 currency-converter
 
 **Contributors**
 
- Gayatri Nimbolkar 
+*Gayatri Nimbolkar 
 
-Ruchira Patil 
+*Ruchira Patil 
 
-Larry Lopes 
+*Larry Lopes 
